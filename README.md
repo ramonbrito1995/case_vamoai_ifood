@@ -15,7 +15,7 @@ Confira o notebook dos membros aqui!
 ![image](https://im2.ezgif.com/tmp/ezgif-2-53263fc767b6.gif)
 
 
-### Dashboard completo [aqui](https://public.tableau.com/app/profile/dem.trio.da.costa.fragoso/viz/Projeto_final_ifood/Grupo4-IfoodResilia)!
+### Dashboard completo [aqui](https://github.com/csuwaki/case_vamoai_ifood/tree/main/analise_exploratoria)!
 
 
 --- 
