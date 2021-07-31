@@ -6,7 +6,7 @@ O objetivo deste projeto foi criar um dashboard no Tableau para exibir um storyt
 
 # Grupo 4
 
-Confira o notebook dos membros aqui! 
+Confira a análise exploratória dos membros acessando os notebooks [aqui](https://github.com/csuwaki/case_vamoai_ifood/tree/main/analise_exploratoria)! 
 
 ---
 
@@ -23,4 +23,15 @@ Confira o notebook dos membros aqui!
 # Equipe
 
 
+<table>
+  <tr>
+    <td align="center"><a href=""><img src="https://cdn.discordapp.com/attachments/865709655498162186/871102347944800266/80566933_10215395485226673_4736036114899402752_o.jpg" width="100px;" alt=""/><br /><sub><b>Demétrio Fragoso</b></sub></a><br /><a href="www.linkedin.com/in/demetrio-fragoso" title="Linkedin"></a> <a href="https://github.com/demetriofragoso"
+    title="Linkedin"> Linkedin </a></td>
+    <td align="center"><a href=""><img src="https://cdn.discordapp.com/attachments/842838819640442903/847096419680256010/IMG_20210106_113858_114.jpg" width="100px;" alt=""/><br /><sub><b>Caroline Suwaki</b></sub></a><br /><a href="https://github.com/csuwaki/" title="Linkedin"></a> <a href="https://www.linkedin.com/in/csuwaki/"
+    title="Linkedin"> Linkedin</a></td>
+    <td align="center"><a href=""><img src="https://cdn.discordapp.com/attachments/865709655498162186/871104271494553620/rrrrrrr.jpg" width="70px;" alt=""/><br /><sub><b>Ramon Brito</b></sub></a><br /><a href="https://github.com/ramonbrito1995/" title="Linkedin"></a> <a href="https://www.linkedin.com/in/ramon-brito-70a0561b6"
+    title="Linkedin"> Linkedin </a></td>
+  
 
+  </tr>
+</table>
