@@ -1,6 +1,6 @@
 # Projeto Final - Módulo 5
 
-O objetivo deste projeto foi criar um dashboard no Tableau para exibir um storytelling com os dados. Os dados escolhidos foram as informações pessoais dos membros da equipe, sendo que as da Caroline Suwaki foram obtidas via API do Strava, as do Demétrio Fragoso foram obtidas a partir do aplicativo Netflix e as do Ramon Brito foram obtidas via API do Spotify. Neste notebook será desenvolvida a análise exploratória dos nossos dados, que será utilizada para a construção de um dashboard no software Tableau.
+O objetivo deste projeto foi criar um dashboard no Tableau para exibir um storytelling com os dados. Os dados escolhidos foram as informações pessoais dos membros da equipe, sendo que as da Caroline Suwaki foram obtidas via API do Strava, as do Demétrio Fragoso foram obtidas a partir do aplicativo Netflix e as do Ramon Brito foram obtidas via API do Spotify. Abaixo estão detalhadas as informações sobre a análise exploratória dos dados, que foram utilizados para a construção de um dashboard no software Tableau.
 
 ---
 
