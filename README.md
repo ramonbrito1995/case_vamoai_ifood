@@ -12,6 +12,7 @@ Confira a análise exploratória dos membros acessando os notebooks [aqui](https
 
 # Confira nosso dashboard no Tableau
 
+
 ![tableau](https://im4.ezgif.com/tmp/ezgif-4-e9401c423aea.gif)
 
 
