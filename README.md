@@ -12,7 +12,9 @@ Confira a análise exploratória dos membros acessando os notebooks [aqui](https
 
 # Confira nosso dashboard no Tableau
 
-![image](https://media.giphy.com/media/nMYADVeCVhciIrII7U/giphy.gif)
+
+![tableau](https://im4.ezgif.com/tmp/ezgif-4-e9401c423aea.gif)
+
 
 
 ### Dashboard completo [aqui](https://public.tableau.com/app/profile/dem.trio.da.costa.fragoso/viz/Projeto_final_ifood/Grupo4-IfoodResilia)!
